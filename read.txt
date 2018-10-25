@@ -1,0 +1,9 @@
+what is devops
+what is agile model
+differts between waterfall and agile model
+how to create a repositary in github
+how to commit
+how to push
+how to clone
+what is fetch 
+what is pull
